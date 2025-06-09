@@ -22,7 +22,6 @@ description: "Professeur des écoles en reconversion dans la cybersécurité, pa
   <a href="https://github.com/damECP" aria-label="GitHub" target="_blank" rel="noopener">
     <i class="fab fa-github fa-2x"></i>
   </a>
-  </a>
   <a href="https://ecoutecapodcast.fr" aria-label="Site Personnel" target="_blank" rel="noopener">
     <i class="fas fa-microphone-alt fa-2x"></i>
   </a>
@@ -36,7 +35,7 @@ description: "Professeur des écoles en reconversion dans la cybersécurité, pa
 <section>
   <h2>Formation &amp; Expérience professionnelle</h2>
   <ul>
-    <li><strong>Professeur des écoles (CM1/CM2)</strong> — Éducation Nationale (REP+ Denain)<br>2008 – Aujourd'hui</li>
+    <li><strong>Professeur des écoles (CM1/CM2)</strong> — Éducation Nationale (REP+ Denain)<br>Depuis 2008</li>
     <li><strong>Licence LLCE Anglais (Langue, Littérature et Civilisation Étrangère)</strong><br>Université Lille 3 — 2006</li>
     <li><strong>Concours de Recrutement de Professeurs des Écoles (CRPE)</strong><br>Obtenu en 2008</li>
   </ul>

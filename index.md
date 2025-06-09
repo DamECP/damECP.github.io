@@ -78,13 +78,13 @@ description: "Professeur des écoles en reconversion dans la cybersécurité, pa
 <section>
   <h2>Soft skills</h2>
   <ul>
-    <li>Analyse fine et esprit critique développés au fil de 15 ans d’enseignement et de projets variés</li>
-    <li>Pédagogue naturel, capable d’expliquer clairement des notions techniques à tous les publics</li>
-    <li>Autonome et rigoureux, avec une forte capacité d’apprentissage en autodidacte</li>
-    <li>Sens aigu de l’éthique et respect strict de la confidentialité, acquis en tant que fonctionnaire</li>
     <li>Excellente maîtrise du français écrit et oral, anglais professionnel courant</li>
-    <li>Communication ferme, diplomatique et efficace avec divers interlocuteurs</li>
+    <li>Autonome et rigoureux, avec une forte capacité d’apprentissage en autodidacte</li>
+    <li>Pédagogue naturel, capable d’expliquer clairement des notions techniques à tous les publics</li>
+    <li>Communication claire, diplomatique et efficace avec divers interlocuteurs et en public</li>
+    <li>Analyse fine et prise d'initiative développées au fil de 15 ans d’enseignement et de projets variés</li>
     <li>Capacité d’adaptation à des environnements changeants dans le respect des cadres établis</li>
+    <li>Sens aigu de l’éthique et respect strict de la confidentialité, acquis en tant que fonctionnaire</li>
   </ul>
 </section>
 

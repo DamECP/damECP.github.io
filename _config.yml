@@ -1,8 +1,9 @@
-title: Mon CV en ligne
-description: CV de DamECP
-baseurl: "" # ne pas modifier si repo personnel
-url: "https://damECP.github.io"
+title: CV de DamECP
+description: CV en ligne moderne
+baseurl: ""
+url: "https://damecp.github.io"
 theme: minima
-author:
-  name: Dam
-  email: ton.email@example.com
+sass:
+  style: compressed
+plugins:
+  - jekyll-sass-converter

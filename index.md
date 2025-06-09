@@ -1,24 +1,30 @@
 ---
 layout: default
-title: "Prénom NOM - Reconversion Cybersécurité & Python"
+title: "Damien DEPAEPE - Reconversion Cybersécurité & Python"
 description: "Professeur des écoles en reconversion dans la cybersécurité, passionné par Python et la sécurité informatique."
 ---
 
 <div class="profile">
+  
   <img src="/assets/images/portrait.jpg" alt="Prénom NOM" class="profile-img" />
-  <h1>Prénom NOM</h1>
+  <h1>Damien DEPAEPE</h1>
+  <p><strong>Âge :</strong> 39 ans &nbsp;&nbsp;|&nbsp;&nbsp; <strong>Ville :</strong> Lille</p>
   <p>Professeur des écoles en reconversion dans la cybersécurité, passionné par Python et la sécurité informatique.</p>
 </div>
 
 <div class="social-links">
-  <a href="mailto:email@example.com" aria-label="Email" target="_blank" rel="noopener">
+  <a href="mailto:damien.depaepe@gmail.com" aria-label="Email" target="_blank" rel="noopener">
     <i class="fas fa-envelope fa-2x"></i>
   </a>
-  <a href="https://linkedin.com/in/tonprofil" aria-label="LinkedIn" target="_blank" rel="noopener">
+  <a href="https://linkedin.com/in/damien-d-9816121a9" aria-label="LinkedIn" target="_blank" rel="noopener">
     <i class="fab fa-linkedin fa-2x"></i>
   </a>
-  <a href="https://github.com/tonprofil" aria-label="GitHub" target="_blank" rel="noopener">
+  <a href="https://github.com/damECP" aria-label="GitHub" target="_blank" rel="noopener">
     <i class="fab fa-github fa-2x"></i>
+  </a>
+  </a>
+  <a href="https://ecoutecapodcast.fr" aria-label="Site Personnel" target="_blank" rel="noopener">
+    <i class="fas fa-microphone-alt fa-2x"></i>
   </a>
 </div>
 
@@ -30,7 +36,7 @@ description: "Professeur des écoles en reconversion dans la cybersécurité, pa
 <section>
   <h2>Formation &amp; Expérience professionnelle</h2>
   <ul>
-    <li><strong>Professeur des écoles (CM1/CM2)</strong> — Éducation Nationale (REP+ Denain)<br>2008 – 2024</li>
+    <li><strong>Professeur des écoles (CM1/CM2)</strong> — Éducation Nationale (REP+ Denain)<br>2008 – Aujourd'hui</li>
     <li><strong>Licence LLCE Anglais (Langue, Littérature et Civilisation Étrangère)</strong><br>Université Lille 3 — 2006</li>
     <li><strong>Concours de Recrutement de Professeurs des Écoles (CRPE)</strong><br>Obtenu en 2008</li>
   </ul>
@@ -52,7 +58,7 @@ description: "Professeur des écoles en reconversion dans la cybersécurité, pa
   <h3>Python</h3>
   <ul>
     <li>Autoformation depuis août 2024 via le MOOC de l’Université d’Helsinki et l’ouvrage <em>Apprenez à programmer en Python</em></li>
-    <li>Projets personnels : générateurs d’exercices pour la classe (ligne de commande)</li>
+    <li>Projets personnels : générateurs d’exercices pour la classe (en ligne de commande)</li>
     <li>Entraînement à la résolution de problèmes via Advent of Code (126 étoiles à ce jour)</li>
     <li>Niveau débutant/intermédiaire : POO, gestion des exceptions, modules standards, programmation fonctionnelle, générateurs</li>
     <li>IDE : VSCode principalement, PyCharm occasionnellement</li>
@@ -62,9 +68,10 @@ description: "Professeur des écoles en reconversion dans la cybersécurité, pa
 <section>
   <h2>Projets personnels</h2>
   <ul>
-    <li><strong>Podcast “Écoute Ça !”</strong> — depuis 2017<br>
+    <li><strong>Podcast Écoute Ça ! </strong> — depuis 2017<br>
     Rédaction, animation, montage et communication en solo<br>
-    Podcast d’analyse musicale, vulgarisation théorique et approche sociologique<br>
+    Création et maintenance du site web
+    Podcast d’analyse musicale, vulgarisation théorique et approche sociologique de la musique<br>
     Primé au Paris Podcast Festival (2019), cité sur France Inter et la RTS</li>
   </ul>
 </section>

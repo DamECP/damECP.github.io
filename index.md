@@ -29,7 +29,7 @@ description: "Professeur des écoles en reconversion dans la cybersécurité, pa
 
 <section>
   <h2>Profil</h2>
-  <p>Professeur des écoles en reconversion dans la cybersécurité, je développe mes compétences en autodidacte via des plateformes comme TryHackMe, Root-Me et des projets personnels en Python. Curieux, rigoureux et méthodique, je cherche à intégrer une équipe en tant qu’analyste SOC ou technicien cybersécurité junior pour faire mes premiers pas dans ce domaine qui me passionne.</p>
+  <p>Professeur des écoles en reconversion dans la cybersécurité, je développe mes compétences en autodidacte via des plateformes comme TryHackMe, Root-Me et des projets personnels en Python. Curieux, rigoureux et méthodique, je cherche à intégrer une équipe en tant qu’analyste SOC, technicien cybersécurité junior ou pentester junior pour faire mes premiers pas dans ce domaine qui me passionne.</p>
 </section>
 
 <section>

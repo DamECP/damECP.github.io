@@ -4,8 +4,6 @@ title: "Damien DEPAEPE - Reconversion Cybersécurité & Python"
 description: "Professeur des écoles en reconversion dans la cybersécurité, passionné par Python et la sécurité informatique."
 ---
 
-# Damien DEPAEPE
-
 **Contact :** [damien.depaepe@gmail.com](mailto:damien.depaepe@gmail.com) — [LinkedIn](https://www.linkedin.com/in/damien-d-9816121a9/) — [GitHub](https://github.com/damECP)  
 
 ---
